@@ -90,11 +90,6 @@ I'm a passionate Data Science student at Northeastern University with a focus on
 - 📱 Phone: (203) 506-8772
 - 💼 LinkedIn: [linkedin.com/in/raydhussain](https://linkedin.com/in/raydhussain)
 
-## 📈 GitHub Stats
-
-![Rayd's GitHub stats](https://github-readme-stats.vercel.app/api?username=rhuss1006&show_icons=true&theme=radical)
-
----
 
 
 <!--
