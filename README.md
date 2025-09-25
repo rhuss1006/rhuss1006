@@ -42,7 +42,7 @@ I'm a passionate Data Science student at Northeastern University with a focus on
 
 ### 📊 Human vs. AI Dashboard Analysis
 *May 2025 – July 2025*
-- Developed interactive Plotly dashboards analyzing **40,000+ data points**
+- Developed interactive Plotly dashboards analyzing **40,000+ rows of data**
 - Reduced data interpretation time by **40%** through custom visualization components
 - Evaluated AI integration for healthcare data analysis through Northeastern's Claude Enterprise pilot
 - **Tech Stack:** Python, JavaScript, Plotly
