@@ -17,7 +17,7 @@ I'm a passionate Data Science student at Northeastern University with a focus on
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### Data Analysis & Visualization
-- **Python:** Pandas, NumPy, Matplotlib, Seaborn, Plotly
+- **Python:** Pandas, NumPy, Matplotlib, Seaborn, Plotly, Altair
 - **R:** ggplot2, dplyr, R Markdown
 - **Business Intelligence:** Power BI
 
