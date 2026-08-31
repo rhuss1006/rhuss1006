@@ -5,9 +5,8 @@
 I'm a passionate Data Science student at Northeastern University with a focus on Health Actuarial Science, Bioinformatics, and Machine Learning. Currently working as an Undergraduate AI/ML & Analytics Research Assistant and leading brain data interpretability research at MedCS.
 
 ## 🎯 Current Focus
-- **Available for Opportunities:** January 2026 – June 2026
+- **Available for Opportunities:** January 2027 – June 2027
 - **Research Areas:** Health Actuarial Science, Clinical Data Analysis, Genomic Data, AI in Healthcare
-- **Current Role:** AI/ML Research Assistant at D'Amore McKim School of Business
 
 ## 🛠️ Technical Stack
 
