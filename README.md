@@ -1,12 +1,12 @@
 # Hi there, I'm Rayd Hussain! 👋
 
-**Data Science Student | AI/ML Researcher | Healthcare Analytics Enthusiast**
+**Data Science Student | AI/ML Researcher**
 
-I'm a passionate Data Science student at Northeastern University with a focus on Health Actuarial Science, Bioinformatics, and Machine Learning. Currently working as an Undergraduate AI/ML & Analytics Research Assistant and leading brain data interpretability research at MedCS.
+I'm a passionate Data Science student at Northeastern University with a focus on Risk Analytics, Stochastic Modeling, and Machine Learning. Recently, I fnished up a co-op at Verisk as a Model Validation Analyst.
 
 ## 🎯 Current Focus
 - **Available for Opportunities:** January 2027 – June 2027
-- **Research Areas:** Health Actuarial Science, Clinical Data Analysis, Genomic Data, AI in Healthcare
+- **Research Areas:** Data Science, Statistical Analysis, Financial Engineering, Machine Learning
 
 ## 🛠️ Technical Stack
 
@@ -74,14 +74,15 @@ I'm a passionate Data Science student at Northeastern University with a focus on
 
 ## 🎓 Education
 
-**Bachelor of Science in Data Science and Healthcare Consulting/Management**  
+**Bachelor of Science in Data Science and Finance**  
 *Northeastern University* | Expected May 2028
 
 **Relevant Coursework:**
-- Advanced Statistics & Data Visualization
+- Advanced Statistics & Stochastics
 - Database Design & Financial Management
 - Data Programming (Standard, Intermediate, Advanced)
 - Management Information Systems
+- Machine Learning 1 & 2
 
 ## 🤝 Let's Connect!
 
