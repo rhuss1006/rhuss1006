@@ -68,6 +68,7 @@ Built dashboards tracking 10+ KPIs on relational and NoSQL databases, and led 15
 ## 🎓 Education
 
 **B.S. Data Science & Finance** · Northeastern University · May 2028
+
 *Machine Learning 1 & 2 · Advanced Statistics · Linear Algebra · Database Design · Financial Management*
 
 ---
