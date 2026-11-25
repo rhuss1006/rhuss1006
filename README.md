@@ -1,6 +1,6 @@
 # Hi, I'm Rayd Hussain 👋
 
-**Data Science & Finance @ Northeastern | Risk Modeling · Machine Learning · Data Engineering**
+**Data Science & Finance @ Northeastern | Credit Risk Modeling · Machine Learning · Data Engineering**
 
 I build models and the data pipelines behind them, with a focus on making sure the output can actually be trusted. Most recently, I was a Model Validation Analyst Co-op at Verisk, stress-testing catastrophe models before release.
 
@@ -32,11 +32,11 @@ I build models and the data pipelines behind them, with a focus on making sure t
 End-to-end credit default scorecard on the German Credit dataset: WOE binning, IV screening, logistic regression, PDO score scaling, PSI drift monitoring, and adverse action reason codes.
 **Test AUC 0.788 · Gini 0.576 · KS 0.479**
 
-### 🏀 NBA Game Outcome Prediction
+### 🏀 [NBA Game Outcome Prediction](https://github.com/jess-hollander/DS4420-Project)
 Pulled NBA game data through `nba_api` and built an MLP that predicts home-team win probability from rolling team stats.
 **65.4% accuracy on the 2025–26 season** vs. a 55.4% always-pick-home baseline
 
-### 🧠 Medical Report AI Summarizer
+### 🧠 [Medical Report AI Summarizer](https://github.com/rhuss1006/med-report-summ)
 NLP pipeline using DNABERT that extracts critical information from 6,000+ medical reports.
 **99.2% accuracy · 78% less physician review time · 0.7 seconds per 10-page document**
 
