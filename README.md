@@ -2,8 +2,6 @@
 
 **Data Science & Finance @ Northeastern | Credit Risk Modeling · Machine Learning · Data Engineering**
 
-I build models and the data pipelines behind them, with a focus on making sure the output can actually be trusted. Most recently, I was a Model Validation Analyst Co-op at Verisk, stress-testing catastrophe models before release.
-
 🎯 **Seeking:** Spring 2027 co-op or Summer 2027 internship in data science, ML, quant/risk, or data engineering
 
 ---
